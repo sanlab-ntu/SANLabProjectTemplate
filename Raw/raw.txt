@@ -1,0 +1,2 @@
+You raw file should be place here. 
+If you have several files for each subject (e.g. fNIRS Recording), you should create one folder per participant.
