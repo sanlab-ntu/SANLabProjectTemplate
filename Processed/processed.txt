@@ -1,0 +1,2 @@
+Your processed files should go here. 
+Similar to the raw data, you may want to have one folder for each subject, of a folder for each stage of analysis (e.g. preprocessedfNIRS, betacoeff, surveysScore, ...) 
